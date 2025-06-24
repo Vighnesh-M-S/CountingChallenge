@@ -1,0 +1,5 @@
+ultralytics==8.0.203
+opencv-python
+matplotlib
+numpy
+scikit-learn
