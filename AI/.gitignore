@@ -1,0 +1,12 @@
+# Ignore all data files
+/data/
+
+# Ignore model runs and outputs
+runs/
+*.jpg
+*.png
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.pyc
